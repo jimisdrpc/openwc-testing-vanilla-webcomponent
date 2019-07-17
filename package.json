@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@open-wc/testing": "^2.0.3",
+    "@open-wc/testing-karma": "^3.0.2",
+    "deepmerge": "^4.0.0",
+    "karma": "^4.2.0",
+    "lit-element": "^2.2.0",
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "karma start --coverage"
+  }
+}
